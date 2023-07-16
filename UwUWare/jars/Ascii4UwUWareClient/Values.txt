@@ -1,0 +1,126 @@
+Velocity:Percent:0.0
+Velocity:Mode:Normal
+AntiBot:Mode:Hypixel
+Killaura:Mode:Switch
+Killaura:Sorting Mode:Health
+Killaura:Rotation Mode:Normal1
+Killaura:AutoBlock Mode:Fake
+Killaura:Attack Mode:Mc
+Killaura:Range:4.4
+Killaura:Max Cps:8.0
+Killaura:Main Cps:7.0
+Killaura:Low Cps:7.0
+Killaura:Switch Delay:100.0
+Killaura:Zitter Value:3.0
+Killaura:Player:true
+Killaura:Animals:false
+Killaura:Mobs:false
+Killaura:Invisible:false
+Killaura:Wall:true
+Killaura:Random Cps:false
+Killaura:Un Sprint:false
+Killaura:Strafe:false
+Killaura:AutoBlock:true
+Killaura:Rotation:true
+Criticals:Mode:Redesky
+Disabler:Mode:MineplexCombat
+Disabler:Blink Less:false
+PingSpoof:Delay:0.5
+HUD:Font Mode:SF_UI
+HUD:Back Ground:true
+HUD:Bg Opacity:51.0
+ClickGui:Mode:Normal
+TargetHUD:Mode:Exhi
+Glow:Mode:Outline
+Glow:Red:4.5
+Glow:Blue:4.5
+Glow:Green:4.5
+Chams:Mode:Normal
+Animation:Mode:Exhi
+Animation:Scale:1.0
+Animation:Swing Speed:1.0
+Animation:Item X:0.0
+Animation:Item Y:0.0
+Animation:Item Z:0.0
+Radar:Players:true
+Radar:Animals:false
+Radar:Passives:false
+Radar:Mobs:false
+Radar:Items:false
+Radar:Invisibles:false
+ESP2D:mode:Box
+ESP2D:Health:true
+ESP2D:Players:true
+ESP2D:Mobs:true
+ESP2D:Animals:true
+ESP2D:Invis:true
+ESP2D:Armor:true
+Crosshair:DYNAMIC:true
+Crosshair:gap:5.0
+Crosshair:width:2.0
+Crosshair:size:7.0
+NoFall:Mode:Hypixel
+AntiFall:OnlyVoid:true
+AntiFall:Distance:5.0
+AntiFall:Mode:Motion
+Speed:Mode:NCP
+Scaffold:SC-Mode:Normal
+Scaffold:TowerMode:Hypixel
+Scaffold:expand:1.0
+Scaffold:Delay:50.0
+Scaffold:Edge Offset:0.13
+Scaffold:Silent:false
+Scaffold:keepy:true
+Scaffold:eage:true
+Scaffold:eagle:false
+Scaffold:raycast:true
+Scaffold:Tower:true
+Scaffold:keepsprint:true
+Scaffold:Keep Rotation:true
+Scaffold:safewalk:true
+Scaffold:swing:true
+TargetStrafe:Range:3.0
+TargetStrafe:Hold Space:true
+TargetStrafe:Draw Circle:true
+Sprint:All-Direction:true
+Fly:Mode:Vanilla
+Fly:LagCheck:true
+Fly:Dragon:false
+Fly:Particle:false
+Fly:Bobbing:true
+Fly:Verus Fast:false
+Fly:Speed:1.0
+Fly:Verus Speed:9.0
+Fly:Verus Tick:20.0
+Longjump:Mode:Mineplex
+Longjump:Rede Ticks:21.0
+Longjump:Rede High:0.77
+Longjump:Auto Disable:true
+Longjump:Bobbing:false
+FastBridge:Only blocks:false
+FastBridge:Fast Place:true
+FastBridge:Auto Shift:true
+FastBridge:Strafe:true
+Fucker:Mode:Bed
+ChestSteal:Delay:50.0
+ChestSteal:silent:true
+ChestSteal:autoclose:true
+ChestSteal:baditems:true
+AutoPotion:Mode:Potion
+AutoPotion:Health:3.0
+AutoPotion:Delay:400.0
+InvManager:Delay:200.0
+InvManager:Sword Slot:1.0
+InvManager:Keep Axe:false
+InvManager:Keep Pickaxe:true
+InvManager:Keep Shovel:true
+InvManager:Clean:true
+InvManager:Clean Bad:true
+InvManager:Auto Armor:true
+Player List:Red:255.0
+Player List:Green:125.0
+Player List:Blue:0.0
+Player List:alpha:50.0
+KillSults:Mode:Mineplex
+KillSults:Message Mode:UwUWare
+KillSults:Fitter Bypass:true

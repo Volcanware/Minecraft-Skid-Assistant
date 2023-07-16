@@ -1,0 +1,74 @@
+Velocity:Percent:0.0
+Velocity:Mode:Normal
+AntiBot:Mode:Hypixel
+Killaura:Mode:Switch
+Killaura:Sorting Mode:Health
+Killaura:Block Mode:Hypixel
+Killaura:Max APS:12.1
+Killaura:Min APS:10.3
+Killaura:Range:4.1
+Killaura:Switch Delay:16.0
+Killaura:Players:true
+Killaura:Mobs:false
+Killaura:Animals:false
+Killaura:Walls:true
+Killaura:AutoBlock:true
+Killaura:Un Sprint:false
+Killaura:Rotation:true
+Killaura:LockView:false
+Disabler:Mode:Hypixel
+HUD:Mode:Rainbow
+ClickGui:Mode:CSGO
+TargetHUD:Mode:Exhi
+Glow:Mode:Shader
+Glow:Red:91.0
+Glow:Blue:4.5
+Glow:Green:4.5
+Chams:Mode:Normal
+Animation:Mode:Cloverhook
+Animation:Scale:2.3
+Radar:Players:true
+Radar:Animals:false
+Radar:Passives:false
+Radar:Mobs:false
+Radar:Items:false
+Radar:Invisibles:false
+ESP2D:mode:Box
+ESP2D:Health:true
+ESP2D:Players:true
+ESP2D:Mobs:true
+ESP2D:Animals:true
+ESP2D:Invis:false
+ESP2D:Armor:true
+Crosshair:DYNAMIC:false
+Crosshair:gap:9.0
+Crosshair:width:4.25
+Crosshair:size:1.25
+NoFall:Mode:Hypixel
+AntiFall:OnlyVoid:true
+AntiFall:Distance:5.0
+AntiFall:Mode:Hypixel
+Speed:Mode:Hypixel
+Scaffold:SC-Mode:Normal
+Scaffold:TowerMode:Packet
+Scaffold:expand:5.0
+Scaffold:Delay:10.0
+Scaffold:eagle:false
+Scaffold:raycast:false
+Scaffold:Tower:true
+Scaffold:keepsprint:true
+Scaffold:Keep Rotation:true
+Scaffold:safewalk:true
+Scaffold:swing:true
+TargetStrafe:Range:0.7
+TargetStrafe:Hold Space:true
+TargetStrafe:Draw Circle:true
+Sprint:All-Direction:true
+Fly:Mode:MCCentral
+Fly:Boost:1.4
+Fly:LagCheck:true
+Fly:Dragon:false
+Fly:Particle:false
+Longjump:Mode:Mineplex
+Fucker:Mode:Cake
+ChestSteal:Delay:130.0
