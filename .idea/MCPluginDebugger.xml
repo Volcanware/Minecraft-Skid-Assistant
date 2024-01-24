@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MCPluginDebuggerConfig">
+    <option name="serverJarFile" value="C:\Users\Volcan\IdeaProjects\Minecraft-Client-Source-Code-Leaks2" />
+    <option name="pluginJarFile" value="C:\Users\Volcan\IdeaProjects\Minecraft-Client-Source-Code-Leaks2" />
+    <option name="pluginName" value="EX" />
+    <option name="host" value="localhost" />
+    <option name="port" value="9000" />
+  </component>
+</project>
