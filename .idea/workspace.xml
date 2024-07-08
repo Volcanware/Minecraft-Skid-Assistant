@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="069bf531-a9f4-4a78-bc53-8c9b59fc82f3" name="Changes" comment="More Clients" />
+    <list default="true" id="069bf531-a9f4-4a78-bc53-8c9b59fc82f3" name="Changes" comment="More Clients">
+      <change beforePath="$PROJECT_DIR$/NullPointerWare" beforeDir="false" afterPath="$PROJECT_DIR$/NullPointerWare" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prestige-src" beforeDir="false" afterPath="$PROJECT_DIR$/prestige-src" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -162,7 +165,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691126932366</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="More Clients">
+      <option name="closed" value="true" />
+      <created>1720412833395</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1720412833395</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
