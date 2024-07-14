@@ -13,6 +13,7 @@ https://discord.gg/ssAjft3mGe
 https://github.com/WalmartSolutions/Mushroom-SRC
 https://github.com/WalmartSolutions/North-SRC
 https://github.com/gabrielvicenteYT/Source-Code-Leaks
+https://github.com/WalmartSolutions/Diablo-X-Source
 
 # Sources
 https://github.com/3000IQPlay/client-library
