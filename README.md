@@ -23,6 +23,9 @@ https://github.com/SkidderMC/FDPClient
 https://github.com/Coffee-Client/Coffee
 https://github.com/Aspw-w/NightX-Client
 
+# Possibly Unsafe Sources
+https://ia600600.us.archive.org/view_archive.php?archive=/30/items/mc-hackedclient/Hack.7z
+
 # Crackers
 https://github.com/3000IQPlay
 https://github.com/WalmartSolutions
