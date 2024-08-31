@@ -13,6 +13,7 @@ https://discord.gg/ssAjft3mGe
 https://github.com/WalmartSolutions/Mushroom-SRC
 https://github.com/WalmartSolutions/North-SRC
 https://github.com/gabrielvicenteYT/Source-Code-Leaks
+https://github.com/WalmartSolutions/Diablo-X-Source
 
 # Sources
 https://github.com/3000IQPlay/client-library
@@ -21,6 +22,9 @@ https://github.com/DustinRepo/JexClient
 https://github.com/SkidderMC/FDPClient
 https://github.com/Coffee-Client/Coffee
 https://github.com/Aspw-w/NightX-Client
+
+# Possibly Unsafe Sources
+https://ia600600.us.archive.org/view_archive.php?archive=/30/items/mc-hackedclient/Hack.7z
 
 # Crackers
 https://github.com/3000IQPlay
