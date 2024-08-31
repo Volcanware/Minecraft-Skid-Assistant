@@ -141,7 +141,7 @@ public class MovementUtils implements Utils {
     }
 
     public static float getSpeed() {
-        if (mc.thePlayer == null || mc.theWorld == null) return 0;
+        if (mc.thePlay er == null || mc.theWorld == null) return 0;
         return (float) Math.sqrt(mc.thePlayer.motionX * mc.thePlayer.motionX + mc.thePlayer.motionZ * mc.thePlayer.motionZ);
     }
 
