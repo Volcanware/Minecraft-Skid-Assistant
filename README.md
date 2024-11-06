@@ -54,11 +54,11 @@ https://discord.gg/ssAjft3mGe
 Discord - dataplugz
 
 ## Safe Cracks
-Rise 5.100: https://cdn.discordapp.com/attachments/1251097831910019072/1251098469087576116/Rise.zip?ex=668c52ff&is=668b017f&hm=c166d3b43c83564d809fe8b354a5dc7999980e25cb41d8e7d2376d8c2c97923d&
+Rise 5.100: https://cdn.discordapp.com/attachments/1303658128801533982/1303671041088028672/Rise.zip?ex=672c99c5&is=672b4845&hm=d95e5820b0fc4595b39fa9501cdcaad7c102e9c21f87c9bfa1b45a24b9cfc919&
 
-Prestige: https://cdn.discordapp.com/attachments/1251097831910019072/1251098690026733649/Prestige-1.0-SNAPSHOT.jar?ex=668c5333&is=668b01b3&hm=46401cb603f5e0705d8b83738417e7d5d8589e7c4a096f1a96684fd68b3d86fb&
+Prestige: https://cdn.discordapp.com/attachments/1303658128801533982/1303671077523816478/Tenacity.zip?ex=672c99cd&is=672b484d&hm=54225f8964135e3797c649445bd6c346409d618d857f78f8041731a99c66d8e8&
 
-Tenacity 5: https://cdn.discordapp.com/attachments/1251097831910019072/1251097984440074260/Tenacity.zip?ex=668c528b&is=668b010b&hm=023b5911f89e81b9a95014d076cfb0ed2f90379e1fd9512a38ac3ea75dd14ae9&
+Tenacity 5: https://cdn.discordapp.com/attachments/1303658128801533982/1303671077523816478/Tenacity.zip?ex=672c99cd&is=672b484d&hm=54225f8964135e3797c649445bd6c346409d618d857f78f8041731a99c66d8e8&
 
 ## Misc
 Cedo Script: https://cdn.discordapp.com/attachments/1214825084116664320/1250748395904045068/CedoScript_Tenacity_5.zip?ex=668c5e77&is=668b0cf7&hm=3a23db66b7023c81016a04365db7aea06b01661b1d6cb259ec2e4b4139c9abf9&
