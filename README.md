@@ -1,7 +1,7 @@
 # Volcanware | Minecraft Skid Assistant
 Minecraft Source Codes for ~~Skids~~ Everyone to See.
 
-if you have any Client Sources or Scripts from Clients that aren't in here make in Issue Post or Pull Request to get it added
+if you have any Client Sources or Scripts from Clients that aren't in here make an Issue Post or Pull Request to get it added
 
 
 # Stuff for Skids
