@@ -128,7 +128,7 @@ RavenB+
 
 Impact (No Longer Updated)
 
-Boze
+Boze (Paid)
 
 Vape (Lite and V4) (Paid)
 
