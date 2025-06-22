@@ -3,6 +3,7 @@ Minecraft Source Codes for ~~Skids~~ Everyone to See.
 
 if you have any Client Sources or Scripts from Clients that aren't in here make an Issue Post or Pull Request to get it added
 
+if you own any of the code in this repository and want it taken down contact with an issue post an I will remove it once I see the Issue Post (DMCA Requests are not needed as this is meant as a reference for researchers, anticheat devs and cheat client devs)
 
 # Stuff for Skids
 
@@ -94,4 +95,47 @@ Public Anticheat List: https://maninmyvan.github.io/Minecraft-Anticheat-List/
 
 Random Minecraft List: https://github.com/GabryB03/Minecraft-Lists
 
+Open Source Bot: https://github.com/Volcan4436/Anarchy-Clef
+
+Baritone: https://github.com/cabaletta/baritone
+
 ~~Neptune Hypixel Edition: https://discord.gg/KWdumPtNNY~~
+
+
+
+## Known Safe Clients:
+// todo: Keep Updated
+
+Rise (Paid)
+
+Ambient (Paid)
+
+Moon (Paid)
+
+Meteor
+
+RusherHack (Paid)
+
+Future (Paid)
+
+BleachHack
+
+Wurst
+
+LiquidBounce
+
+RavenB+
+
+Impact (No Longer Updated)
+
+Boze
+
+Vape (Lite and V4) (Paid)
+
+Phantom (Paid)
+
+Breeze (Paid)
+
+3arthh4ck (Discontinued)
+
+SalHack (Discontinued)
