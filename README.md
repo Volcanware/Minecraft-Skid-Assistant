@@ -106,35 +106,39 @@ Baritone: https://github.com/cabaletta/baritone
 ## Known Safe Clients:
 // todo: Keep Updated
 
-Rise (Paid)
+Rise (Paid) (Getting a 1.21 Update)
 
-Ambient (Paid)
+Ambient (Paid) (Getting a 1.21 Update)
 
-Moon (Paid)
+Moon (Paid) (Getting a 1.21 Update)
 
-Meteor
+Envy (Discontinued)
 
-RusherHack (Paid)
+AltoMenu (1.20.4)
 
-Future (Paid)
+Meteor (Latest)
+
+RusherHack (Paid) (1.12.2/1.20+)
+
+Future (Paid) (1.8.9/1.12.2/1.14/1.20+)
 
 BleachHack
 
-Wurst
+Wurst (1.8+)
 
-LiquidBounce
+LiquidBounce (1.8 / Latest)
 
 RavenB+
 
-Impact (No Longer Updated)
+Impact (No Longer Updated) (last minecraft version: 1.16.5)
 
 Boze (Paid)
 
-Vape (Lite and V4) (Paid)
+Vape (Lite and V4) (Paid) (Injectable Client)
 
-Phantom (Paid)
+Phantom (Paid) (Injectable Client uses javaAgent)
 
-Breeze (Paid)
+Breeze (Paid) (Inject Forge Hybrid) (Adding 1.21 Support)
 
 3arthh4ck (Discontinued)
 
