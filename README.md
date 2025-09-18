@@ -27,6 +27,8 @@ https://github.com/gabrielvicenteYT/Source-Code-Leaks
 
 https://github.com/WalmartSolutions/Diablo-X-Source
 
+https://github.com/dankor1337/phantom-paste-owned
+
 ## Sources
 https://github.com/3000IQPlay/client-library
 
