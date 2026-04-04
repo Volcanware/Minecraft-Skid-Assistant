@@ -69,7 +69,7 @@ https://matrix.rip/
 
 https://verus.ac/
 
-
+StrikeAC (Private)
 
 ## Possibly Unsafe Sources
 https://ia600600.us.archive.org/view_archive.php?archive=/30/items/mc-hackedclient/Hack.7z
@@ -86,14 +86,14 @@ https://discord.gg/ssAjft3mGe
 Discord - dataplugz
 
 ## Safe Cracks
-Rise 5.100: https://cdn.discordapp.com/attachments/1303658128801533982/1303671041088028672/Rise.zip?ex=672c99c5&is=672b4845&hm=d95e5820b0fc4595b39fa9501cdcaad7c102e9c21f87c9bfa1b45a24b9cfc919&
+~~Rise 5.100: https://cdn.discordapp.com/attachments/1303658128801533982/1303671041088028672/Rise.zip?ex=672c99c5&is=672b4845&hm=d95e5820b0fc4595b39fa9501cdcaad7c102e9c21f87c9bfa1b45a24b9cfc919&~~
 
-Prestige: https://cdn.discordapp.com/attachments/1303658128801533982/1303671077523816478/Tenacity.zip?ex=672c99cd&is=672b484d&hm=54225f8964135e3797c649445bd6c346409d618d857f78f8041731a99c66d8e8&
+~~Prestige: https://cdn.discordapp.com/attachments/1303658128801533982/1303671077523816478/Tenacity.zip?ex=672c99cd&is=672b484d&hm=54225f8964135e3797c649445bd6c346409d618d857f78f8041731a99c66d8e8&~~
 
-Tenacity 5: https://cdn.discordapp.com/attachments/1303658128801533982/1303671077523816478/Tenacity.zip?ex=672c99cd&is=672b484d&hm=54225f8964135e3797c649445bd6c346409d618d857f78f8041731a99c66d8e8&
+~~Tenacity 5: https://cdn.discordapp.com/attachments/1303658128801533982/1303671077523816478/Tenacity.zip?ex=672c99cd&is=672b484d&hm=54225f8964135e3797c649445bd6c346409d618d857f78f8041731a99c66d8e8&~~
 
 ## Misc
-Cedo Script: https://cdn.discordapp.com/attachments/1214825084116664320/1250748395904045068/CedoScript_Tenacity_5.zip?ex=668c5e77&is=668b0cf7&hm=3a23db66b7023c81016a04365db7aea06b01661b1d6cb259ec2e4b4139c9abf9&
+~~Cedo Script: https://cdn.discordapp.com/attachments/1214825084116664320/1250748395904045068/CedoScript_Tenacity_5.zip?ex=668c5e77&is=668b0cf7&hm=3a23db66b7023c81016a04365db7aea06b01661b1d6cb259ec2e4b4139c9abf9&~~
 
 Public Anticheat List: https://maninmyvan.github.io/Minecraft-Anticheat-List/
 
@@ -112,38 +112,48 @@ Baritone: https://github.com/cabaletta/baritone
 
 Rise (Paid) (Getting a 1.21 Update)
 
-Ambient (Paid) (Getting a 1.21 Update)
+Ambient (Paid) (1.21.11)
 
-Moon (Paid) (Getting a 1.21 Update)
+Moon (Paid) (Discontinued)
 
 Envy (Discontinued)
 
-AltoMenu (1.20.4)
+AltoMenu (1.20.4 Fabric) (Temp Discontinued)
 
 Meteor (Latest)
 
+Inertia (Discontinued)
+
 RusherHack (Paid) (1.12.2/1.20+)
 
-Future (Paid) (1.8.9/1.12.2/1.14/1.20+)
+Future (Paid) (1.8.9/1.12.2/1.20+)
 
 BleachHack
+
+Aristois (Free + Paid Version) (1.8/1.12.2-1.21.4)
 
 Wurst (1.8+)
 
 LiquidBounce (1.8 / Latest)
 
-RavenB+
+RavenB+ (1.8 Forge)
 
-Impact (No Longer Updated) (last minecraft version: 1.16.5)
+Impact (No Longer Updated) (last minecraft version: 1.16.5) (Includes Donator Only Features)
 
-Boze (Paid)
+Boze (Paid) (1.18.2-1.21.11)
 
-Vape (Lite and V4) (Paid) (Injectable Client)
+Vape (Lite and V4) (Paid) (Injectable Client) (1.7/1.8/1.12.2/1.20.4)
 
 Phantom (Paid) (Injectable Client uses javaAgent)
 
-Breeze (Paid) (Inject Forge Hybrid) (Adding 1.21 Support)
+Breeze (Paid) (Inject Forge Hybrid) (Adding 1.21+ Support)
 
-3arthh4ck (Discontinued)
+3arthh4ck (Discontinued) (1.12.2 Forge)
 
-SalHack (Discontinued)
+SalHack (Discontinued) (1.12.2 Forge)
+
+
+
+
+## Client Graveyard (RIP)
+Moon, Envy, ZeroDay, Tenacity, Artemis, Kawaii, DortWare, Juul, Vayze, Mathax, Syracuse, Achilles, Straightware, Astolfo, Diablo, Pulsive, Summer, IcarusX, Adapt
