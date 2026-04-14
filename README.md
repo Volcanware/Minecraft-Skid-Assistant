@@ -29,6 +29,8 @@ https://github.com/WalmartSolutions/Diablo-X-Source
 
 https://github.com/dankor1337/phantom-paste-owned
 
+https://github.com/Volcan4436/Syracuse-3.0-source-leak
+
 ## Sources
 https://github.com/3000IQPlay/client-library
 
@@ -43,6 +45,8 @@ https://github.com/Coffee-Client/Coffee
 https://github.com/Aspw-w/NightX-Client
 
 https://github.com/NoboKik/Achilles
+
+https://github.com/3arthh4ckDevelopment/3arthh4ck-Fabric (unfinished port of EarthHack to the 1.20.x/1.21.x Fabric ModLoader)
 
 ## Anticheats
 https://www.spigotmc.org/resources/grim-anticheat.99923/
