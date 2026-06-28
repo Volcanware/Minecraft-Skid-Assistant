@@ -114,13 +114,11 @@ Baritone: https://github.com/cabaletta/baritone
 ## Known Safe Clients:
 // todo: Keep Updated
 
-Rise (Paid) (1.8.9/getting a 1.21 Update) (Includes Scripting System) (Sign Exploit Detection Unknown)
-
-Ambient (Paid) (1.21.11) (Includes Scripting System) (Sign Exploit Detection Unknown)
+Rise (Paid) (1.8.9/getting a 1.21 Update) (Includes Scripting System) (Unaffected by Sign Exploit)
 
 Moon (Paid) (1.8.9) (Discontinued) (Includes Scripting System) (Sign Exploit Detection Unknown)
 
-Envy (1.19/1.19.3/1.20.1) (Discontinued) (Vuln to Sign Exploit)
+Envy (1.19/1.19.3/1.20.1) (Discontinued) (Unaffected by sign Exploit)
 
 AltoMenu (1.20.4 Fabric) (Temp Discontinued) (Includes Scripting System) (Sign Exploit Patched)
 
@@ -136,7 +134,7 @@ BleachHack (Vuln to Sign Exploit)
 
 Aristois (Free + Paid Version) (1.8/1.12.2-1.21.4) (Vuln to Sign Exploit)
 
-Wurst (1.8+) (Vuln to Sign Exploit)
+Wurst (1.8+) (Sign Exploit Patched)
 
 LiquidBounce (1.8 / Latest) (Vuln to Sign Exploit)
 
@@ -144,13 +142,13 @@ RavenB+ (1.8 Forge) (Sign Exploit Detection Unknown)
 
 Impact (No Longer Updated) (last minecraft version: 1.16.5) (Includes Donator Only Features) (Sign Exploit Detection Unknown)
 
-Boze (Paid) (1.18.2-1.21.11) (Includes Add-on System) (Ghost Mode Screenshare Detected) (Sign Exploit Patched)
+Boze (Paid) (1.18.2-1.21.11) (Includes Add-on System) (Ghost Mode Screenshare Detected) (Component Exploit Patched)
 
-Vape (Lite and V4) (Paid) (Injectable Client) (1.7/1.8/1.12.2/1.20.4) (Screenshare Detected) (Sign Exploit Detection Unknown)
+Vape (Lite and V4) (Paid) (Injectable Client) (1.7/1.8/1.12.2/1.20.4/1.21.11) (Screenshare Detected) (Sign Exploit Detection Unknown)
 
 Phantom (Paid) (Injectable Client uses javaAgent) (Ghost Client) (Potentially Screenshare proof) (Sign Exploit Detection Unknown)
 
-Breeze (Paid) (Inject Forge Hybrid) (Adding 1.21+ Support) (Includes Scripting System) (Screenshare Detection unknown) (Sign Exploit Detection Unknown)
+Breeze (Paid) (Inject Forge Hybrid) (Adding 26.1+ Support) (Includes Scripting System) (Screenshare Detection unknown) (Sign Exploit Detection Unknown)
 
 3arthh4ck (Discontinued) (1.12.2 Forge) (Sign Exploit Detection Unknown)
 
@@ -160,4 +158,4 @@ SalHack (Discontinued) (1.12.2 Forge) (Sign Exploit Detection Unknown)
 
 
 ## Client Graveyard (RIP)
-Moon, Envy (Previously Mathax+), ZeroDay, Tenacity, Artemis, Kawaii, DortWare, Juul, Vayze, Mathax, Syracuse, Achilles, Straightware, Astolfo, Diablo, Pulsive, Summer, IcarusX, Adapt, ThunderHack, Rose, NullPointerWare, DogClient (Replaced with Ambient), NeptuneClient
+Moon, Envy (Previously Mathax+), ZeroDay, Tenacity, Artemis, Kawaii, DortWare, Juul, Vayze, Mathax, Syracuse, Achilles, Straightware, Astolfo, Diablo, Pulsive, Summer, IcarusX, Adapt, ThunderHack, Rose, NullPointerWare, NeptuneClient, Jello, Sigma, NightX, Phobos, Wurst+2, Nodus, LoseBypass (Replaced by Breeze), JexClient, Akeno, Kami, KamiBlue
