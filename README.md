@@ -89,8 +89,8 @@ https://discord.gg/ssAjft3mGe
 
 Discord - dataplugz
 
-## Safe Cracks
-~~Rise 5.100: https://cdn.discordapp.com/attachments/1303658128801533982/1303671041088028672/Rise.zip?ex=672c99c5&is=672b4845&hm=d95e5820b0fc4595b39fa9501cdcaad7c102e9c21f87c9bfa1b45a24b9cfc919&~~
+## Safe Cracks / Recoveries
+Rise 5.100 [Launch Fix+Dependancy Fix]: https://archive.org/details/rise-client-5100-archive
 
 ~~Prestige: https://cdn.discordapp.com/attachments/1303658128801533982/1303671077523816478/Tenacity.zip?ex=672c99cd&is=672b484d&hm=54225f8964135e3797c649445bd6c346409d618d857f78f8041731a99c66d8e8&~~
 
