@@ -76,6 +76,7 @@ https://verus.ac/
 StrikeAC [INVITE ONLY]
 ## Possibly Unsafe Sources
 https://ia600600.us.archive.org/view_archive.php?archive=/30/items/mc-hackedclient/Hack.7z
+https://github.com/ravineclaw/ping-equalizer
 
 ## Crackers
 https://github.com/3000IQPlay
