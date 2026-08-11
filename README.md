@@ -97,7 +97,7 @@ Rise 5.100 [Launch Fix+Dependancy Fix]: https://archive.org/details/rise-client-
 ~~Tenacity 5: https://cdn.discordapp.com/attachments/1303658128801533982/1303671077523816478/Tenacity.zip?ex=672c99cd&is=672b484d&hm=54225f8964135e3797c649445bd6c346409d618d857f78f8041731a99c66d8e8&~~
 
 ## Misc
-~~Cedo Script: https://cdn.discordapp.com/attachments/1214825084116664320/1250748395904045068/CedoScript_Tenacity_5.zip?ex=668c5e77&is=668b0cf7&hm=3a23db66b7023c81016a04365db7aea06b01661b1d6cb259ec2e4b4139c9abf9&~~
+~~Cedo Script: https://cdn.discordapp.com/attachments/1214825084116664320/1250748395904045068/CedoScript_Tenacity_5.zip?ex=668c5e77&is=668b0cf7&hm=3a23db66b7023c81016a04365db7aea06b01661b1d6cb259ec2e4b4139c9abf9&~~ [Included in Repo Now]
 
 Public Anticheat List: https://maninmyvan.github.io/Minecraft-Anticheat-List/
 
@@ -106,6 +106,8 @@ Random Minecraft List: https://github.com/GabryB03/Minecraft-Lists
 Open Source Bot: https://github.com/Volcan4436/Anarchy-Clef
 
 Baritone: https://github.com/cabaletta/baritone
+
+Redacted Client: [PlaceHolder for Discord Invite]
 
 ~~Neptune Hypixel Edition: https://discord.gg/KWdumPtNNY~~
 
@@ -120,7 +122,7 @@ Moon (Paid) (1.8.9) (Discontinued) (Includes Scripting System) (Sign Exploit Det
 
 Envy (1.19/1.19.3/1.20.1) (Discontinued) (Unaffected by sign Exploit)
 
-AltoMenu (1.20.4 Fabric) (Temp Discontinued) (Includes Scripting System) (Sign Exploit Patched)
+AltoMenu (1.20.4 Fabric) (Temp Discontinued) (Includes Scripting System) (Component Exploit Fixed)
 
 Meteor (Latest) (Includes Add-on System) (Vuln to Sign Exploit)
 
@@ -128,17 +130,17 @@ Inertia (Discontinued) (Sign Exploit Detection Unknown)
 
 RusherHack (Paid) (1.12.2/1.20+) (Includes Add-on System) (Sign Exploit Detection Unknown)
 
-Future (Paid) (1.8.9/1.12.2/1.20+) (Sign Exploit Detection Unknown)
+Future (Paid) (1.8.9/1.12.2/1.20+) (Component Exploit Fixed)
 
 BleachHack (Vuln to Sign Exploit) 
 
 Aristois (Free + Paid Version) (1.8/1.12.2-1.21.4) (Vuln to Sign Exploit)
 
-Wurst (1.8+) (Sign Exploit Patched)
+Wurst (1.8+) (Component Exploit Fixed)
 
-LiquidBounce (1.8 / Latest) (Vuln to Sign Exploit)
+LiquidBounce (1.8 / Latest) (Component Exploit Fixed)
 
-RavenB+ (1.8 Forge) (Sign Exploit Detection Unknown)
+RavenB+ (1.8 Forge)
 
 Impact (No Longer Updated) (last minecraft version: 1.16.5) (Includes Donator Only Features) (Sign Exploit Detection Unknown)
 
@@ -148,11 +150,13 @@ Vape (Lite and V4) (Paid) (Injectable Client) (1.7/1.8/1.12.2/1.20.4/1.21.11) (S
 
 Phantom (Paid) (Injectable Client uses javaAgent) (Ghost Client) (Potentially Screenshare proof) (Sign Exploit Detection Unknown)
 
-Breeze (Paid) (Inject Forge Hybrid) (Adding 26.1+ Support) (Includes Scripting System) (Screenshare Detection unknown) (Sign Exploit Detection Unknown)
+Breeze (Paid) (1.8.9 Forge Mod & Inject Support / 26+ Inject Only) (Inject Forge/Fabric/Vanilla | Forge Mod | Hybrid) () (Includes Scripting System) (Screenshare Detection unknown) (Sign Exploit Detection Unknown)
 
 3arthh4ck (Discontinued) (1.12.2 Forge) (Sign Exploit Detection Unknown)
 
 SalHack (Discontinued) (1.12.2 Forge) (Sign Exploit Detection Unknown)
+
+Redacted Client (In-Progress) (1.8.9) 
 
 
 
