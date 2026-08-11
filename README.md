@@ -74,9 +74,12 @@ https://matrix.rip/
 https://verus.ac/
 
 StrikeAC [INVITE ONLY]
+
 ## Possibly Unsafe!!!
 https://ia600600.us.archive.org/view_archive.php?archive=/30/items/mc-hackedclient/Hack.7z
+
 https://github.com/ravineclaw/ping-equalizer
+
 https://discord.gg/XxNn42ymj2 - Criptix Client Discord Invite [Probably Dead in a few Months]
 
 ## Crackers
