@@ -5,6 +5,19 @@ if you have any Client Sources or Scripts from Clients that aren't in here make 
 
 if you own any of the code in this repository and want it taken down contact with an issue post an I will remove it once I see the Issue Post (DMCA Requests are not needed as this is meant as a reference for researchers, anticheat devs and cheat client devs)
 
+
+# Stuff To Check Out
+MainFrame Discord: https://discord.gg/prKzANR7Hz [Run by a friend of mine that is a cool place to find fellow programmers and find cool projects]
+
+BaEC Discord: https://discord.gg/TQFnHNBZzz [Run by a friend of mine that is a good place to keep up to date with exploits and such]
+
+Alto Clef Discord: https://discord.gg/Fht5ZeNExe [Go Check Out my Homie TacoTechnia's Community!]
+
+Sudo Security Discord: https://discord.gg/DjsduqH8Dv [Run by a friend of mine that writes cool articles and stuff]
+
+
+
+
 # Stuff for Skids
 
 ## Leakers
@@ -111,7 +124,7 @@ Open Source Bot: https://github.com/Volcan4436/Anarchy-Clef
 
 Baritone: https://github.com/cabaletta/baritone
 
-Redacted Client: [PlaceHolder for Discord Invite]
+Redacted Client: https://discord.gg/R6XYfnez7C
 
 ~~Neptune Hypixel Edition: https://discord.gg/KWdumPtNNY~~
 
@@ -160,7 +173,7 @@ Breeze (Paid) (1.8.9 Forge Mod & Inject Support / 26+ Inject Only) (Inject Forge
 
 SalHack (Discontinued) (1.12.2 Forge) (Sign Exploit Detection Unknown)
 
-Redacted Client (In-Progress) (1.8.9) 
+Redacted Client (In-Progress) (1.8.9) Discord: https://discord.gg/R6XYfnez7C
 
 
 
