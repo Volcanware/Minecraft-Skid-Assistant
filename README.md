@@ -96,6 +96,9 @@ https://github.com/ravineclaw/ping-equalizer
 https://discord.gg/XxNn42ymj2 - Criptix Client Discord Invite [Probably Dead in a few Months]
 
 ## Crackers
+https://github.com/catfmradio4 @catfmradio4
+
+
 https://github.com/3000IQPlay
 
 https://e-z.bio/3000iqplay
