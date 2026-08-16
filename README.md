@@ -181,4 +181,4 @@ Redacted Client (In-Progress) (1.8.9) Discord: https://discord.gg/R6XYfnez7C
 
 
 ## Client Graveyard (RIP)
-Moon, Envy (Previously Mathax+), ZeroDay, Tenacity, Artemis, Kawaii, DortWare, Juul, Vayze, Mathax, Syracuse, Achilles, Straightware, Astolfo, Diablo, Pulsive, Summer, IcarusX, Adapt, ThunderHack, Rose, NullPointerWare, NeptuneClient, Jello, Sigma, NightX, Phobos, Wurst+2, Nodus, LoseBypass (Replaced by Breeze), JexClient, Akeno, Kami, KamiBlue
+Moon, Envy (Previously Mathax+), ZeroDay, Tenacity, Artemis, Kawaii, DortWare, Juul, Vayze, Mathax, Syracuse, Achilles, Straightware, Astolfo, Diablo, Pulsive, Summer, IcarusX, Adapt, ThunderHack (Replaced with catlean), Rose, NullPointerWare, NeptuneClient, Jello, Sigma, NightX, Phobos, Wurst+2, Nodus, LoseBypass (Replaced by Breeze), JexClient, Akeno, Kami, KamiBlue
