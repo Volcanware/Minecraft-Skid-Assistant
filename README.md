@@ -175,8 +175,6 @@ Breeze (Paid) (1.8.9 Forge Mod & Inject Support / 26+ Inject Only) (Inject Forge
 
 SalHack (Discontinued) (1.12.2 Forge) (Sign Exploit Detection Unknown)
 
-Redacted Client (In-Progress) (1.8.9) Discord: https://discord.gg/R6XYfnez7C
-
 
 
 
